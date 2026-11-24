@@ -1,0 +1,46 @@
+{
+  "L00087": {
+    "code": 0,
+    "msg": "ok",
+    "data": {
+      "linkId": "L00087",
+      "linkType": "microwave",
+      "srcNodeId": "GND005",
+      "dstNodeId": "AIR001",
+      "status": "up",
+      "params": {
+        "delayMs": 12.5,
+        "jitterMs": 3.0,
+        "bandwidthBps": 8000000,
+        "ber": 0.0001,
+        "packetLossRate": 0.02
+      },
+      "time": "00:00:00.000000",
+      "tsUs": 0
+    },
+    "time": "00:00:00.000000",
+    "tsUs": 0
+  },
+  "L00088": {
+    "code": 0,
+    "msg": "ok",
+    "data": {
+      "linkId": "L00088",
+      "linkType": "microwave",
+      "srcNodeId": "GND005",
+      "dstNodeId": "AIR002",
+      "status": "down",
+      "params": {
+        "delayMs": 15.0,
+        "jitterMs": 2.0,
+        "bandwidthBps": 8000000,
+        "ber": 0.0001,
+        "packetLossRate": 0.01
+      },
+      "time": "00:00:00.000000",
+      "tsUs": 0
+    },
+    "time": "00:00:00.000000",
+    "tsUs": 0
+  }
+}

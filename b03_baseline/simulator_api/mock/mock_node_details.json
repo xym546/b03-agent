@@ -1,0 +1,66 @@
+{
+  "GND005": {
+    "code": 0,
+    "msg": "ok",
+    "data": {
+      "nodeId": "GND005",
+      "name": "测试地面节点5",
+      "nodeType": "ground",
+      "status": "online",
+      "ip": "10.0.0.1",
+      "mask": "255.255.255.0",
+      "time": "00:00:00.000000",
+      "tsUs": 0
+    },
+    "time": "00:00:00.000000",
+    "tsUs": 0
+  },
+  "AIR001": {
+    "code": 0,
+    "msg": "ok",
+    "data": {
+      "nodeId": "AIR001",
+      "name": "测试空中节点1",
+      "nodeType": "air",
+      "status": "online",
+      "ip": "10.0.0.2",
+      "mask": "255.255.255.0",
+      "time": "00:00:00.000000",
+      "tsUs": 0
+    },
+    "time": "00:00:00.000000",
+    "tsUs": 0
+  },
+  "AIR002": {
+    "code": 0,
+    "msg": "ok",
+    "data": {
+      "nodeId": "AIR002",
+      "name": "测试空中节点2",
+      "nodeType": "air",
+      "status": "offline",
+      "ip": "10.0.0.3",
+      "mask": "255.255.255.0",
+      "time": "00:00:00.000000",
+      "tsUs": 0
+    },
+    "time": "00:00:00.000000",
+    "tsUs": 0
+  },
+  "UAV012": {
+    "code": 0,
+    "msg": "ok",
+    "data": {
+      "nodeId": "UAV012",
+      "name": "测试无人平台12",
+      "nodeType": "uav",
+      "status": "online",
+      "ip": "10.0.0.4",
+      "mask": "255.255.255.0",
+      "time": "00:00:00.000000",
+      "tsUs": 0
+    },
+    "time": "00:00:00.000000",
+    "tsUs": 0
+  }
+}

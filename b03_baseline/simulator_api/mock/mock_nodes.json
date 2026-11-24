@@ -1,0 +1,14 @@
+{
+  "code": 0,
+  "msg": "ok",
+  "data": {
+    "nodes": [
+      {"nodeId": "GND005", "name": "测试地面节点5", "nodeType": "ground", "status": "online"},
+      {"nodeId": "AIR001", "name": "测试空中节点1", "nodeType": "air", "status": "online"},
+      {"nodeId": "AIR002", "name": "测试空中节点2", "nodeType": "air", "status": "offline"},
+      {"nodeId": "UAV012", "name": "测试无人平台12", "nodeType": "uav", "status": "online"}
+    ]
+  },
+  "time": "00:00:00.000000",
+  "tsUs": 0
+}

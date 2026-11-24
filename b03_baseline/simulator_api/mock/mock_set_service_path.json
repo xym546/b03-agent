@@ -1,0 +1,12 @@
+{
+  "code": 0,
+  "msg": "ok",
+  "data": {
+    "result": "accepted",
+    "pathId": "P-MOCK-001",
+    "effectiveTime": "00:00:00.000000",
+    "effectiveTsUs": 0
+  },
+  "time": "00:00:00.000000",
+  "tsUs": 0
+}

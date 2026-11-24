@@ -1,0 +1,15 @@
+{
+  "code": 0,
+  "msg": "ok",
+  "data": {
+    "result": "started",
+    "suiteId": "mock-suite",
+    "scenarioId": "mock-scenario",
+    "scriptId": "mock-script",
+    "instanceId": "mock-instance",
+    "t0Time": "00:00:00.000000",
+    "t0TsUs": 0
+  },
+  "time": "00:00:00.000000",
+  "tsUs": 0
+}

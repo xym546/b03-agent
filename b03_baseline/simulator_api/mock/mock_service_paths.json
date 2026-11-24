@@ -1,0 +1,28 @@
+{
+  "SVC0001": {
+    "code": 0,
+    "msg": "ok",
+    "data": {
+      "serviceId": "SVC0001",
+      "pathId": "P00001",
+      "segments": [{"type": "link", "id": "L00087"}],
+      "effectiveTime": "00:00:00.000000",
+      "source": "system"
+    },
+    "time": "00:00:00.000000",
+    "tsUs": 0
+  },
+  "SVC0003": {
+    "code": 0,
+    "msg": "ok",
+    "data": {
+      "serviceId": "SVC0003",
+      "pathId": null,
+      "segments": [],
+      "effectiveTime": null,
+      "source": null
+    },
+    "time": "00:00:00.000000",
+    "tsUs": 0
+  }
+}

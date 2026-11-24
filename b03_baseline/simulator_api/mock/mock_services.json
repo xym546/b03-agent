@@ -1,0 +1,15 @@
+{
+  "code": 0,
+  "msg": "ok",
+  "data": {
+    "services": [
+      {"serviceId": "SVC0001", "serviceType": "video", "srcNodeId": "GND005", "dstNodeId": "AIR001", "priority": 6, "status": "running"},
+      {"serviceId": "SVC0002", "serviceType": "voice", "srcNodeId": "GND005", "dstNodeId": "AIR002", "priority": 5, "status": "failed"},
+      {"serviceId": "SVC0003", "serviceType": "data", "srcNodeId": "UAV012", "dstNodeId": "AIR001", "priority": 3, "status": "pending"},
+      {"serviceId": "SVC0004", "serviceType": "image", "srcNodeId": "AIR001", "dstNodeId": "UAV012", "priority": 2, "status": "stopped"},
+      {"serviceId": "SVC0005", "serviceType": "data", "srcNodeId": "AIR002", "dstNodeId": "UAV012", "priority": 1, "status": "finished"}
+    ]
+  },
+  "time": "00:00:00.000000",
+  "tsUs": 0
+}

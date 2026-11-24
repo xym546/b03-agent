@@ -1,0 +1,14 @@
+{
+  "code": 0,
+  "msg": "ok",
+  "data": {
+    "events": [
+      {"eventId": "EVT001", "type": "link_state_changed", "time": "00:00:01.000000", "tsUs": 1000000, "payload": {"instanceId": "mock-instance", "linkId": "L00088", "event": "link_down"}},
+      {"eventId": "EVT002", "type": "node_state_changed", "time": "00:00:02.000000", "tsUs": 2000000, "payload": {"instanceId": "mock-instance", "nodeId": "AIR002", "state": "offline", "position": {"x": 200.0, "y": 0.0}}},
+      {"eventId": "EVT003", "type": "service_state_changed", "time": "00:00:03.000000", "tsUs": 3000000, "payload": {"instanceId": "mock-instance", "serviceId": "SVC0002", "status": "failed", "pathChanged": false}}
+    ],
+    "nextSinceTsUs": 3000000
+  },
+  "time": "00:00:04.000000",
+  "tsUs": 4000000
+}
